@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/gabrieltumbaga/dev/pro-cf-2025/src/app/mixes/mixes.module.css"],"sourcesContent":[".mixes :global(.mix-holder) {\n    margin-top: 60px;\n}\n.mixes :global(.mix-control-holder) {\n    padding: 30px;\n}\n.mixes :global(audio) {\n    border: solid 3px #b60000;\n    border-top-width: 3px;\n    border-top-style: solid;\n    border-top-color: rgb(182, 0, 0);\n    border-right-width: 3px;\n    border-right-style: solid;\n    border-right-color: rgb(182, 0, 0);\n    border-top: none;\n    border-right: none;\n    padding: 0;\n    margin: 0;\n    display: block;\n    width: 100%;\n}"],"names":[],"mappings":"AAAA;;;;AAGA;;;;AAGA","debugId":null}}]
-}

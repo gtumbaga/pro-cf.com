@@ -8,13 +8,13 @@ export default function Djs() {
         </div>
         <div className="pod">
             <p>
-                Originating as a DJ scratch crew, we started taking on DJ gigs in order to earn money to support being scratch DJ's. Somewhere along the way, we changed genre's, and are now mobile DJ's. Although scratching is fun, and we still sometimes do it, we now mostly concentrate on getting people to shake their groove thang!
+                Originating as a DJ scratch crew, we started taking on DJ gigs in order to earn money to support being scratch DJ&apos;s. Somewhere along the way, we changed genre&apos;s, and are now mobile DJ&apos;s. Although scratching is fun, and we still sometimes do it, we now mostly concentrate on getting people to shake their groove thang!
             </p>
             <p>
                 We have more than 12 years experience in DJing, for company events, wedding receptions, school dances, cotillions, birthdays, house-parties, as well as clubs and lounges.
             </p>
             <p>
-                We've DJ'd for a wide range of people and companies, ranging from family and firends, to store events for companies such as T-Mobile, Victoria Secret (Pink), Game Stop, and Holiday parties for companies such as East Bay Mud, Kaiser Permanente, DMV, Stanford Court, and John Muir.
+                We&apos;ve DJ&apos;d for a wide range of people and companies, ranging from family and firends, to store events for companies such as T-Mobile, Victoria Secret (Pink), Game Stop, and Holiday parties for companies such as East Bay Mud, Kaiser Permanente, DMV, Stanford Court, and John Muir.
             </p>
         </div>
 

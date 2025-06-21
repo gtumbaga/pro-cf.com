@@ -42,7 +42,7 @@ export default function Contact() {
             <h2 className="text-left">DJ gTraxx</h2>
 
             <div className="mix-holder">
-                <h3>Oldschool 90's Mix 01</h3>
+                <h3>Oldschool 90&apos;s Mix 01</h3>
                 <div className="mix-control-holder">
                   <audio controls preload="none">
                       <source src="/mixes/gtraxx-Mix02_mixdown.mp3" type="audio/mpeg" />
@@ -72,7 +72,7 @@ export default function Contact() {
             </div>
 
             <div className="mix-holder">
-                <h3>'08 R&B Mix</h3>
+                <h3>&apos;08 R&B Mix</h3>
                 <div className="mix-control-holder">
                   <audio controls preload="none">
                       <source src="/mixes/gt-slowmix-2008.mp3" type="audio/mpeg" />

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:DJ gTraxx
+PHOTO;VALUE=URI;TYPE=PNG:https://www.pro-cf.com/portraits/gtraxx.png
+N:Tumbaga;Gabe;;;
+ORG:Professional Contact
+TEL;TYPE=CELL:+1-925-291-0111
+EMAIL;TYPE=WORK:djgtraxx@gmail.com
+URL:https://www.pro-cf.com/
+TITLE:DJ
+NOTE:Professional contact information
+REV:2025-06-20T10:00:00Z
+END:VCARD
