@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["file:///Users/gabrieltumbaga/dev/pro-cf-2025/src/app/page.module.css"],"sourcesContent":[".page {\n    color: #fff;\n}"],"names":[],"mappings":"AAAA","debugId":null}}]
+}
