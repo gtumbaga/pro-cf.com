@@ -1,0 +1,21 @@
+.mixes :global(.mix-holder) {
+    margin-top: 60px;
+}
+.mixes :global(.mix-control-holder) {
+    padding: 30px;
+}
+.mixes :global(audio) {
+    border: solid 3px #b60000;
+    border-top-width: 3px;
+    border-top-style: solid;
+    border-top-color: rgb(182, 0, 0);
+    border-right-width: 3px;
+    border-right-style: solid;
+    border-right-color: rgb(182, 0, 0);
+    border-top: none;
+    border-right: none;
+    padding: 0;
+    margin: 0;
+    display: block;
+    width: 100%;
+}

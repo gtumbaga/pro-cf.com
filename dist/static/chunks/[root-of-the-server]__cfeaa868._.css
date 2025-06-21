@@ -310,6 +310,10 @@ a {
     font-size: 20px;
   }
 
+  h3 {
+    font-size: 18px;
+  }
+
   .global-header .logo-text-holder {
     right: 20px;
   }
