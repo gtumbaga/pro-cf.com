@@ -244,10 +244,16 @@ body {
 
 .global-footer {
   height: var(--footer-height);
+  text-align: center;
   background-image: url("/fancy-corner-footer.png");
   background-position: 0 100%;
   background-repeat: no-repeat;
   background-size: 400px 208px;
+  justify-content: center;
+  align-items: flex-end;
+  padding-bottom: 50px;
+  font-size: 14px;
+  display: flex;
 }
 
 .main-constraint {
@@ -309,13 +315,13 @@ a {
   }
 
   .global-header .logo-text-holder img {
-    height: 52px;
-  }
-}
-
-@media (width <= 420px) {
-  .global-header .logo-text-holder img {
     height: 40px;
+  }
+
+  .global-footer div {
+    max-width: 360px;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
 

@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <>
         <div className="global-footer">
-            <div>footer</div>
+            <div>© Copyright 2025 Gabriel Tumbaga, Centrifugal Force Productions</div>
         </div>
     </>
   );

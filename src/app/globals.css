@@ -154,6 +154,12 @@ body {
     background-size: 400px 208px;
     background-position: bottom left;
     background-repeat: no-repeat;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: flex-end;
+    padding-bottom: 50px;
+    font-size: 14px;
 }
 
 .main-constraint {
@@ -214,8 +220,13 @@ a {
     }
 
 }
-@media (max-width: 420px) {
+@media (max-width: 640px) {
     .global-header .logo-text-holder img {
         height: 40px;
+    }
+    .global-footer div {
+        max-width: 360px;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
