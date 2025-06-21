@@ -30,9 +30,20 @@ body {
   height: 170px;
 }
 
+.global-header .logo-holder {
+  position: absolute;
+  top: 20px;
+  left: 124px;
+}
+
+.global-header .logo-holder img {
+  width: 120px;
+  height: 120px;
+}
+
 .global-header .logo-text-holder {
   position: absolute;
-  top: 40px;
+  top: 30px;
   right: 40px;
 }
 

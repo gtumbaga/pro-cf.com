@@ -21,10 +21,10 @@ const Nav = () => {
                         <Link href="/djs">DJs</Link>
                     </li>
                     <li className={'nav-item ' + (pathname == '/mixes/' ? 'active' : '')}>
-                        <Link href="/about">Mixes</Link>
+                        <Link href="/mixes">Mixes</Link>
                     </li>
                     <li className={'nav-item ' + (pathname == '/swag/' ? 'active' : '')}>
-                        <Link href="/about">Buy Swag!</Link>
+                        <Link href="/swag">Buy Swag!</Link>
                     </li>
                 </ul>
             </div>

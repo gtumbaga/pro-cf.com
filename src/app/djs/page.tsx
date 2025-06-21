@@ -1,9 +1,9 @@
-import styles from './contact.module.css';
+import styles from './djs.module.css';
 
-export default function Contact() {
+export default function Djs() {
   return (
     <div>
-        this is the contact page
+        this is the djs page
     </div>
   );
 }
