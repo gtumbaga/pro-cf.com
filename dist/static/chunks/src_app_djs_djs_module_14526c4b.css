@@ -1,0 +1,51 @@
+/* [project]/src/app/djs/djs.module.css [app-client] (css) */
+.djs-module__vJiCrG__djs .pod.limit {
+  max-width: 536px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 20px;
+}
+
+.djs-module__vJiCrG__djs .business-card-holder {
+  padding: 10px;
+}
+
+.djs-module__vJiCrG__djs .business-card-holder img {
+  width: 100%;
+  max-width: 512px;
+  height: auto;
+  margin: 0 auto;
+  display: block;
+}
+
+.djs-module__vJiCrG__djs .button-holder {
+  flex-direction: row;
+  justify-content: space-evenly;
+  gap: 10px;
+  margin-top: 20px;
+  display: flex;
+}
+
+.djs-module__vJiCrG__djs .portrait-holder {
+  margin-top: 20px;
+}
+
+.djs-module__vJiCrG__djs .portrait-holder img {
+  width: 160px;
+  height: 200px;
+  margin: 0 auto;
+  display: block;
+}
+
+@media (width <= 640px) {
+  .djs-module__vJiCrG__djs .button-holder {
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+}
+
+
+/*# sourceMappingURL=src_app_djs_djs_module_14526c4b.css.map*/

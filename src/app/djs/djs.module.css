@@ -1,0 +1,45 @@
+.djs :global(.pod.limit) {
+    max-width: 536px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+.djs :global(.business-card-holder) {
+    padding: 10px;
+}
+.djs :global(.business-card-holder img) {
+    display: block;
+    width: 100%;
+    max-width: 512px;
+    height: auto;
+    margin: 0 auto;
+}
+.djs :global(.button-holder) {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+/* .djs :global(.button-holder a.button) {
+    width: 240px;
+    margin: 0 auto;
+} */
+.djs :global(.portrait-holder) {
+    margin-top: 20px;
+}
+.djs :global(.portrait-holder img) {
+    display: block;
+    margin: 0 auto;
+    width: 160px;
+    height: 200px;
+}
+@media (max-width: 640px) {
+    .djs :global(.button-holder) {
+        flex-direction: column;
+        justify-content: center;
+        gap: 10px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
