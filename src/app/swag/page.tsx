@@ -1,9 +1,10 @@
-import styles from './contact.module.css';
+import styles from './swag.module.css';
+import SpreadshirtEmbed from '../components/SpreadshirtEmbed';
 
 export default function Contact() {
   return (
     <div>
-        this is the swag page
+        <SpreadshirtEmbed />
     </div>
   );
 }

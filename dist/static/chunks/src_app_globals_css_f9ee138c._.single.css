@@ -89,9 +89,13 @@ body {
   color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: linear-gradient(#4e0000 0%, #b50000 50%, #4e0000 100%) center / cover no-repeat fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
+  background: linear-gradient(#4e0000 0%, #b50000 50%, #4e0000 100%) !important;
 }
 
 .pod {
