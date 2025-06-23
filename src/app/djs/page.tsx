@@ -60,6 +60,18 @@ export default function Djs() {
                 <a className="button" href="/cards/alex.vcf">Save Contact</a>
             </div>
         </div>
+
+        <div id="dj-boboy" className="pod limit">
+            <h2 className="text-left">DJ Boboy</h2>
+            <div className="business-card-holder">
+                <img src="/cards/card-grayson-med.jpg" alt="DJ Boboy business card" />
+            </div>
+            <div className="portrait-holder">
+                <img src="/portraits/boboy.png" alt="DJ Boboy portrait" />
+            </div>
+            <div className="button-holder">
+            </div>
+        </div>
     </div>
   );
 }
