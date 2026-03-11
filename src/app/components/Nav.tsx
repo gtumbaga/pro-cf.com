@@ -23,9 +23,9 @@ const Nav = () => {
                     <li className={'nav-item ' + (pathname == '/mixes/' ? 'active' : '')}>
                         <Link href="/mixes">Mixes</Link>
                     </li>
-                    <li className={'nav-item ' + (pathname == '/swag/' ? 'active' : '')}>
+                    {/*<li className={'nav-item ' + (pathname == '/swag/' ? 'active' : '')}>
                         <Link href="/swag">Buy Swag!</Link>
-                    </li>
+                    </li>*/}
                 </ul>
             </div>
         </div>
